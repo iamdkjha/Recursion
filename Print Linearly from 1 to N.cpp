@@ -18,6 +18,6 @@ int main(){
     int n,i=1;
     cout<<"Enter the number: ";
     cin>>n;
-    // linear(i,n);
+    linear(i,n);
     return 0;
 }
